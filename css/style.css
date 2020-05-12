@@ -122,3 +122,7 @@ img-area:hover img{
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+.header-image{
+	background-image: url('../assets/images/9.jpg');
+}
